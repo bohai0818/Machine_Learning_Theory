@@ -2,8 +2,8 @@
 
 1. 关于机器学习理论的书籍
 
-- An introduction to statistical learning   
-- Pattern_Recognition_And_Machine_Learning
+- [An introduction to statistical learning](https://github.com/bohai0818/Machine_Learning_Theory/blob/master/An_Introduction_to_Statistical_Learning.pdf)   
+- [Pattern_Recognition_And_Machine_Learning](https://github.com/bohai0818/Machine_Learning_Theory/blob/master/Pattern_Recognition_And_Machine_Learning.pdf)
 
 2. 关于数据预处理和特征工程
 
